@@ -31,7 +31,7 @@
 
 ##
 [![Group Chat](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KSzHychQNNP2oNMUUq7RCC) 
-[![Bot](https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285713107279)
+[![Bot](https://img.shields.io/badge/Group%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285713107279)
 
 
 ## Thanks To
